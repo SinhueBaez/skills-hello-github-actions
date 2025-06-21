@@ -1,4 +1,4 @@
- name: post welcome event
+name: post welcome event
 on:
   pull_request:
     types: [opened]
